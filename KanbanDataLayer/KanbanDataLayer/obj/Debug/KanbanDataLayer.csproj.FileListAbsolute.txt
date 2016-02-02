@@ -1,0 +1,10 @@
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\KanbanDataLayer.exe.config
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\obj\Debug\KanbanDataLayer.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\KanbanDataLayer.exe
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\KanbanDataLayer.pdb
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\EntityFramework.dll
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\EntityFramework.xml
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\obj\Debug\KanbanDataLayer.exe
+C:\Dev\GitHub\Kanban-DataLayer\KanbanDataLayer\KanbanDataLayer\obj\Debug\KanbanDataLayer.pdb
